@@ -1,0 +1,26 @@
+{
+  "title": "Discussions & Deferred Items",
+  "description": "Deferred decisions, vague ideas, open questions, and future enhancements. Not development tasks — parked for periodic review. Items graduate to a phase PRD when concrete and actionable.",
+  "categories": {
+    "deferred-architecture": {
+      "title": "Deferred Architecture & Performance",
+      "items": []
+    },
+    "vague-ideas": {
+      "title": "Vague Ideas & Brainstorming",
+      "items": []
+    },
+    "open-questions": {
+      "title": "Open Questions",
+      "items": []
+    },
+    "future-enhancements": {
+      "title": "Future Enhancements",
+      "items": []
+    },
+    "stakeholder-input": {
+      "title": "Business Items Needing Stakeholder Input",
+      "items": []
+    }
+  }
+}
