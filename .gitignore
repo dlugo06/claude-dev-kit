@@ -1,0 +1,25 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+
+# Agent reports (gitignored working files)
+.dev/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
